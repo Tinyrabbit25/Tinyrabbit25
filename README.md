@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi,👋 I'm Priyansh Dhiman 
+More about me on my portfolio, which is coming soon!
 
-<!--
-**Tinyrabbit25/Tinyrabbit25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About ME:
+Found Computer Programming as a passion in High School
+First ever language learned: Python
+Currently working on improving my programming skills and expanding my roster of learning different languages
+Backend and Frontend Developer
+Always looking for ways to increase my knowledge and hone my skills in this field
 
-Here are some ideas to get you started:
+Education:
+Currently Pursuing a Bachelor's Degree in Computer Science as my Major
+Also, at the same time, pursuing a Minor in Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for checking out my Profile!
+
