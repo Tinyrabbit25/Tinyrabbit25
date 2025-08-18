@@ -1,7 +1,7 @@
 Hi,👋 I'm Priyansh Dhiman 
 More about me on my portfolio, which is coming soon!
 
-About ME:
+About Me:
 - Found Computer Programming as a passion in High School
 
 - First ever language learned: 
