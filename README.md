@@ -1,5 +1,5 @@
 Hi,👋 I'm Priyansh Dhiman 
-More about me on my portfolio, which is coming soon!
+More about me on my portfolio, https://tinyrabbit25.github.io/Personal-Portfolio/
 
 About Me:
 - Found Computer Programming as a passion in High School
