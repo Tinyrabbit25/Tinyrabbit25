@@ -14,7 +14,7 @@ Always looking for ways to increase my knowledge and hone my skills in this fiel
 Education:
 
 - Currently Pursuing a Bachelor's Degree in Computer Science as my Major
-Also, at the same time, pursuing a Minor in Web Development
+also, at the same time, pursuing a Minor in Web Development
 
 Thanks for checking out my Profile!
 
